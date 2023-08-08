@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/karan-chawla-327448283/">
