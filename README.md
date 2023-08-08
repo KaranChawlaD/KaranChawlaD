@@ -17,8 +17,8 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 </div>
 ---
-
 ### :man_technologist: About Me :
+
 <!--
 **KaranChawlaD/KaranChawlaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
