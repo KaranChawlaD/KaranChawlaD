@@ -38,6 +38,10 @@ I am an Aspiring Mechatronics Engineer :robot: from Ottawa, Canada.
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
 <!--
 **KaranChawlaD/KaranChawlaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
