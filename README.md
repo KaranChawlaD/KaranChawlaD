@@ -43,10 +43,9 @@ I am an Aspiring Mechatronics Engineer :robot: from Ottawa, Canada.
 
 ### :fire: My Stats :
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=KaranChawlaD&theme=synthwave&hide_border=true" title="Java" alt="Java" height="200"/>&nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=KaranChawlaD&theme=synthwave&hide_border=true" title="GitHubStats" alt="GitHubStats" height="200"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChawlaD&layout=compact&theme=synthwave&hide_border=true" title="LangStats" alt="LangStats" height="200"/>&nbsp;
 </div>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaranChawlaD&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChawlaD&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
