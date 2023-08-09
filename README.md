@@ -27,7 +27,7 @@ I am an Aspiring Mechatronics Engineer :robot: from Ottawa, Canada.
 
 - :zap: In my free time, I do competitive programming problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KaranChawla-blue?style=for-the-badge=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chawla-327448283/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Karan-blue?style=for-the-badge=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chawla-327448283/)
 
 <!--
 **KaranChawlaD/KaranChawlaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
