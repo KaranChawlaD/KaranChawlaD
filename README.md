@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada.
-- :droplet: I’m a Software Co-Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/)[newtab].
+- :droplet: I’m a Software Co-Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/)(newtab).
 
 - :seedling: Exploring Full Stack Development -> Personal Website.
 
