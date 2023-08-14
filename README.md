@@ -27,7 +27,7 @@ I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada.
 
 - :zap: In my free time, I do Competitive Programming problems -> CCC Jr Honour Roll.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Karan Chawla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/karan-chawla-327448283/) [![Gmail Badge](https://img.shields.io/badge/-karan.chawlad-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karan.chawlad@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KaranChawla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/karan-chawla-327448283/) [![Gmail Badge](https://img.shields.io/badge/-karan.chawlad-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karan.chawlad@gmail.com)
 
 ---
 
