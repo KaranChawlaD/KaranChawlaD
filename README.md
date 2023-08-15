@@ -23,7 +23,7 @@
 I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduate @ Merivale High School
 - :droplet: I’m a Software Co-Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/) (org: Spark Youth Robotics Club).
 
-- :seedling: Exploring Full Stack Development -> Personal Website.
+- :seedling: Exploring Full Stack Development -> Personal Website (Coming Soon).
 
 - :zap: In my free time, I do Competitive Programming problems -> CCC Jr Honour Roll.
 
