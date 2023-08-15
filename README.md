@@ -44,8 +44,12 @@ I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduat
 
 ### :fire: My Stats :
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=KaranChawlaD&theme=synthwave&hide_border=true" title="GitHubStats" alt="GitHubStats" height="150"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChawlaD&layout=compact&theme=synthwave&hide_border=true" title="LangStats" alt="LangStats" height="150"/>&nbsp;
+  <table>
+    <tr>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=KaranChawlaD&theme=synthwave&hide_border=true" title="GitHubStats" alt="GitHubStats" height="150"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChawlaD&layout=compact&theme=synthwave&hide_border=true" title="LangStats" alt="LangStats" height="150"/>&nbsp;
+    </tr>
+  </table>
 </div>
 
 ---
