@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduate @ Merivale High School
+I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduate @ Merivale High School.
 - :droplet: I’m a Software Co-Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/) (org: Spark Youth Robotics Club).
 
 - :seedling: Exploring Full Stack Development -> Personal Website (Coming Soon).
@@ -37,7 +37,7 @@ I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduat
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
 </div>
 
 ---
