@@ -52,5 +52,5 @@ I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduat
 
 ---
 
-### :rofl: Joke of the Day :
+### :rofl: Joke of the day :
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave)
