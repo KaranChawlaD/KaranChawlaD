@@ -21,11 +21,11 @@
 
 ### :man_technologist: About Me :
 I am an aspiring Mechatronics Engineer :robot: from Ottawa, Canada. 2025 Graduate @ Merivale High School.
-- :droplet: Software Subteam Co-Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/) (org: Spark Youth Robotics Club).
+- :droplet: Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/) (org: Spark Youth Robotics Club).
 
-- :seedling: Exploring Frontend Development -> Personal Website (Coming Shortly).
+- :seedling: Exploring Full Stack Development -> Personal Website (Coming Shortly).
 
-- :zap: In my free time, I do Competitive Programming problems -> CCC Jr Honour Roll.
+- :zap: In my free time, I do Competitive Programming problems.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Karan~Chawla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/karan-chawla-327448283/) [![Gmail Badge](https://img.shields.io/badge/-karan.chawlad-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karan.chawlad@gmail.com)
 
