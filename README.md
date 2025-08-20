@@ -20,10 +20,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Engineering Science Student at the University of Toronto, originally :robot: from Ottawa, Canada. 2025 Graduate @ Merivale High School.
+I am an Engineering Science Student at the University of Toronto, originally from Ottawa, Canada. 2025 Graduate @ Merivale High School.
 - :droplet: Prev: Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/) (org: Spark Youth Robotics Club).
 
-- :seedling: Exploring Full Stack Development (See all my projects below!).
+- :seedling: Exploring Full Stack Development & Robotics Programming (See all my projects below!).
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Karan~Chawla-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/karan-chawla-327448283/) [![Gmail Badge](https://img.shields.io/badge/-karan.chawlad-darkred?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karan.chawlad@gmail.com)
 
