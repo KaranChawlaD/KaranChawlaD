@@ -46,12 +46,5 @@ I am an Engineering Science Student at the University of Toronto, originally fro
 
 ---
 
-### :fire: My Stats :
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChawlaD&layout=compact&theme=synthwave&hide_border=true" title="LangStats" alt="LangStats" height="150"/>&nbsp;
-</div>
-
----
-
 ### :rofl: Joke of the day :
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave)
