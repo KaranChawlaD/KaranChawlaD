@@ -18,8 +18,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Engineering Science Student at the University of Toronto, originally from Ottawa, Canada. 2025 Graduate @ Merivale High School.
-- :droplet: Prev: Captain of First Robotics Competition Team 8729 -> [Sparkling H2O](https://syrc.ca/) (org: Spark Youth Robotics Club).
+I am an Engineering Science Student at the University of Toronto, originally from Ottawa, Canada.
+- :robot: Researcher @ Autonomous Space Robotics Lab.
 
 - :seedling: Exploring Full Stack Development & Robotics Programming (See all my projects below!).
 
