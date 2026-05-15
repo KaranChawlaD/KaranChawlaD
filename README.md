@@ -36,7 +36,7 @@ drwxr-xr-x  Q-Learning Maze Runner Dashboard
              └── Reinforcement learning environment where an agent learns to solve mazes.
                  Visualizes training in real time.
 
-drwxr-xr-x  Full Stack Projects
+drwxr-xr-x  Full Stack Projects (Full Stack @ UofTHacks)
              └── Building with Next.js, Flask, and everything in between
 ```
 
