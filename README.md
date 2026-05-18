@@ -30,10 +30,10 @@ I'm building autonomous robots at the intersection of hardware and software engi
 
 ```
 drwxr-xr-x  Autonomous Space Robotics Lab (ASRL) @ UofT
-             └── Coming Soon
+             └── Summer 2026. Details coming soon!
 
 drwxr-xr-x  Q-Learning Maze Runner Dashboard
-             └── Reinforcement learning environment where an agent learns to solve mazes.
+             └── Reinforcement learning environment where an agent learns to find an optimal path with obstacles.
                  Visualizes training in real time.
 
 drwxr-xr-x  Full Stack Projects (Full Stack @ UofTHacks)
