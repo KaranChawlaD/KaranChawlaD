@@ -33,7 +33,7 @@ drwxr-xr-x  Autonomous Space Robotics Lab (ASRL) @ UofT
              └── Summer 2026. Details coming soon!
 
 drwxr-xr-x  Q-Learning Maze Runner Dashboard
-             └── Reinforcement learning environment where an agent learns to find an optimal path with obstacles.
+             └── Reinforcement learning environment where an agent learns to find an optimal path with user inputted obstacles.
                  Visualizes training in real time.
 
 drwxr-xr-x  Full Stack Projects (Full Stack @ UofTHacks)
