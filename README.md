@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-I'm building autonomous robots at the intersection of hardware and software engineering. Interested in robotics and computer science, I love discovering how technology solves real-world problems.
+Hey I'm Karan! I'm building autonomous robots at the intersection of hardware and software engineering. Interested in robotics and computer science, I love discovering how technology solves real-world problems.
 
 ---
 
