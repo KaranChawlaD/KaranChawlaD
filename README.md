@@ -37,7 +37,7 @@ drwxr-xr-x  Q-Learning Maze Runner Dashboard
                  Visualizes training in real time.
 
 drwxr-xr-x  Full Stack Projects (Full Stack @ UofTHacks)
-             └── Building with Next.js, Flask, and everything in between
+             └── Building with Next.js, Flask, and everything in between. Check out my personal project!
 ```
 
 ---
