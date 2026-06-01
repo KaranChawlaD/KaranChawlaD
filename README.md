@@ -76,7 +76,7 @@ drwxr-xr-x  Full Stack Projects (Full Stack @ UofTHacks)
 
 <div align="center">
 
-*"The best way to predict the future is to build it. - someone I agree with"*
+*"The best way to predict the future is to build it." - someone I agree with*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KaranChawlaD&style=flat-square&color=58a6ff&label=profile+views)
 
