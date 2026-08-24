@@ -30,7 +30,7 @@ Hey I'm Karan! I'm building autonomous robots at the intersection of hardware an
 
 ```
 drwxr-xr-x  Autonomous Space Robotics Lab (ASRL) @ UofT
-             └── Summer 2026. Mesh radio implementation on a multi robot fleet.
+             └── Summer 2026. Deploying Mesh Radio Networks for Decentralized Long-Range Multi-Robot Navigation in Unstructured Environments
 
 drwxr-xr-x  escritura
              └── converting a 3d printer into a writer.
