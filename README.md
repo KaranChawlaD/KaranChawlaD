@@ -78,6 +78,4 @@ drwxr-xr-x  Full Stack Projects (Full Stack @ UofTHacks)
 
 *"The best way to predict the future is to create it." - Abraham Lincoln (supposedly)*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=KaranChawlaD&style=flat-square&color=58a6ff&label=profile+views)
-
 </div>
